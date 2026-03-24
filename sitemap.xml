@@ -12,6 +12,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/rc-cars/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/swimming/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/water-guns/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/contact/
         </loc>
     </url>
