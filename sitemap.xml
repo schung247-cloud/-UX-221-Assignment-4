@@ -27,6 +27,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/drinking-for-the-first-time/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/contact/
         </loc>
     </url>
@@ -73,6 +78,11 @@
     <url>
         <loc>
             http://localhost:8000/category/childhood/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/adulthood/
         </loc>
     </url>
     <url>
